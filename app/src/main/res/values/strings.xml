@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVMDemo</string>
+    <string name="viewmodel">使用ViewModel</string>
+    <string name="livedata">使用LiveData</string>
+    <string name="databinding1">使用DataBinding (1)</string>
+    <string name="databinding2">使用DataBinding (2)</string>
+    <string name="add">add</string>
+</resources>
